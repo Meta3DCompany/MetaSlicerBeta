@@ -1,0 +1,22 @@
+{
+    "type": "machine",
+    "setting_id": "GM001",
+    "name": "Meta3D IXPro",
+    "from": "system",
+    "instantiation": "true",
+    "inherits": "fdm_klipper_common",
+    "printer_model": "Meta3D IXPro",
+    "nozzle_diameter": [
+      "0.4"
+    ],
+    "printable_area": [
+      "0x0",
+      "500x0",
+      "500x300",
+      "0x300"
+    ],
+    
+    "printable_height": "400"
+   
+  }
+  
